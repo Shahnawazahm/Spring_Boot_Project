@@ -1,5 +1,4 @@
 package com.seyed.flight_reservation.controller;
-
 import com.seyed.flight_reservation.entity.Flight;
 import com.seyed.flight_reservation.repository.FlightRepository;
 import org.springframework.format.annotation.DateTimeFormat;
