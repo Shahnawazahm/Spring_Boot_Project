@@ -14,6 +14,7 @@ import java.util.Optional;
 @Controller
 public class FlightController {
     //    private static final Logger LOGGER = LoggerFactory.getLogger(UserController.class);
+    
     FlightRepository flightRepository;
 
     public FlightController(FlightRepository flightRepository) {
