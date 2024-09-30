@@ -17,3 +17,8 @@ Please edit application.properties file accordingly (available within the projec
 <h1>Flight Reservation</h1>
 <h2>
 Using Spring Boot for the backend API and MySQL data access.</h2>
+
+<h1>Bus</h1>
+<h2>
+Using Spring Boot for the backend API and MySQL data access.</h2>
+
