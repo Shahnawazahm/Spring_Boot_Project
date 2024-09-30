@@ -14,3 +14,6 @@ Delivers a web application for managing persistent customizable todo lists.
 Please edit application.properties file accordingly (available within the project). Create MySQL database (or configure any other), and add database credentials via environment variables of the IDE to get this project working
 
 </spam>
+<h1>Flight Reservation</h1>
+<h2>
+Using Spring Boot for the backend API and MySQL data access.</h2>
