@@ -49,3 +49,4 @@ A Spring Boot web application providing a RESTful API backend for a blogging pla
 
 _Please edit application.properties file accordingly (available within the project). Create MySQL database (or configure any other), and add database credentials via environment variables of the IDE to get this project working._
 
+no changes for today
